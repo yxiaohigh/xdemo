@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_go_to_test">GoToTest</string>
+    <string name="test">Test</string>
 </resources>
